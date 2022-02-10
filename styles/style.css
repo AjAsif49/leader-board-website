@@ -73,3 +73,18 @@ top: 507px;
     border-style: none;
     background-color: white;
 }
+
+.mid .contact{
+    align-items: center;
+    align-content: center;
+    background-color: #562EFF;
+    padding: 20px;
+    border: 5px solid #562EFF;
+    border-radius: 10px;
+}
+
+footer{
+    margin-top: 20px;
+    color: gray;
+    text-align: center;
+}
